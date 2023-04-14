@@ -1,0 +1,95 @@
+{
+    "workbench.colorTheme": "Ayu Mirage Bordered",
+    "editor.fontSize": 18,
+    "terminal.integrated.fontSize": 14,
+    "security.workspace.trust.untrustedFiles": "open",
+    "latex-workshop.view.pdf.viewer": "tab",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "editor.guides.bracketPairs": "active",
+    "editor.bracketPairColorization.enabled": true,
+    "liveshare.presence": true,
+    "workbench.editor.focusRecentEditorAfterClose": false,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "better-comments.tags": [
+
+        {
+            "tag": "!",
+            "color": "#FF2D00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "?",
+            "color": "#3498DB",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "//",
+            "color": "#474747",
+            "strikethrough": true,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        // {
+        //     "tag": "todo",
+        //     "strikethrough": false,
+        //     "underline": false,
+        //     "backgroundColor": "transparent",
+        //     "bold": false,
+        //     "italic": false
+        // },
+        {
+            "tag": "*",
+            "color": "#98C379",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        }
+    ],
+    "terminal.integrated.env.osx": {
+        "FIG_NEW_SESSION": "1"
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "npm.keybindingsChangedWarningShown": true,
+    "audioCues.lineHasError": "off",
+    "editor.accessibilitySupport": "off",
+    "tab-groups.gitBranchGroups": "Save only",
+    "window.zoomLevel": -3
+    /*// ADENTRO SETTINGS
+    "python.linting.pep8Enabled": true,
+    "python.linting.pep8Args": [
+        "--max-line-length=99"
+    ],
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.flake8Args": [
+        "--max-line-length=99"
+    ],
+    "python.formatting.formatOnSave": true,
+    "python.formatting.autopep8Args": [
+        "--max-line-length=99"
+    ],
+
+    "python.unitTest.nosetestsEnabled": true,
+    "python.unitTest.nosetestArgs": [
+        "-s",
+        "--cover-erase",
+        "--with-coverage"
+    ]*/
+}
