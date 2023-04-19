@@ -5,6 +5,10 @@
 - between text j l
 - Everything else j, k
 
+## MacOS
+- Reconfigure left and right key
+- Install Rectangle for window management
+
 ## Bitwarden
 - Store passwords, keys, auths
 
