@@ -103,7 +103,7 @@
                         "manipulators": [
                             {
                                 "from": {
-                                    "key_code": "w",
+                                    "key_code": "i",
                                     "modifiers": {
                                         "mandatory": [
                                             "right_option"
@@ -124,7 +124,7 @@
                             },
                             {
                                 "from": {
-                                    "key_code": "a",
+                                    "key_code": "j",
                                     "modifiers": {
                                         "mandatory": [
                                             "right_option"
@@ -145,7 +145,7 @@
                             },
                             {
                                 "from": {
-                                    "key_code": "s",
+                                    "key_code": "k",
                                     "modifiers": {
                                         "mandatory": [
                                             "right_option"
@@ -166,7 +166,7 @@
                             },
                             {
                                 "from": {
-                                    "key_code": "d",
+                                    "key_code": "l",
                                     "modifiers": {
                                         "mandatory": [
                                             "right_option"
@@ -187,7 +187,7 @@
                             },
                             {
                                 "from": {
-                                    "key_code": "k",
+                                    "key_code": "o",
                                     "modifiers": {
                                         "mandatory": [
                                             "right_option"
@@ -200,7 +200,7 @@
                                 "to": [
                                     {
                                         "mouse_key": {
-                                            "vertical_wheel": -32
+                                            "vertical_wheel": -40
                                         }
                                     }
                                 ],
@@ -208,7 +208,7 @@
                             },
                             {
                                 "from": {
-                                    "key_code": "j",
+                                    "key_code": "u",
                                     "modifiers": {
                                         "mandatory": [
                                             "right_option"
@@ -221,7 +221,7 @@
                                 "to": [
                                     {
                                         "mouse_key": {
-                                            "vertical_wheel": 32
+                                            "vertical_wheel": 40
                                         }
                                     }
                                 ],
@@ -229,7 +229,7 @@
                             },
                             {
                                 "from": {
-                                    "key_code": "q",
+                                    "key_code": "semicolon",
                                     "modifiers": {
                                         "mandatory": [
                                             "right_option"
@@ -248,7 +248,7 @@
                             },
                             {
                                 "from": {
-                                    "key_code": "e",
+                                    "key_code": "quote",
                                     "modifiers": {
                                         "mandatory": [
                                             "right_option"
