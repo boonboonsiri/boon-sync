@@ -6,7 +6,7 @@
 - Everything else j, k
 
 ## MacOS
-- Reconfigure left and right key
+- Reconfigure left and right key, or lowkey might not even need this
 - Install Rectangle for window management
 
 ## Bitwarden
@@ -17,6 +17,7 @@
 - Tab Renamer
 - Golinks
 - Bitwarden
+- SessionBuddy -> For managing session
 
 ## Development
 
@@ -26,3 +27,15 @@
 - Smh why don't you sync
 
 ### Fig
+
+### Shortcat -> I think just use defualt
+
+### Rectangle
+- Window management
+
+### Probably need a desktop window manager
+
+
+### Amethyst for window managing?????
+
+### Notion maybe?
