@@ -97,7 +97,7 @@ j, k, enter (full screen)
 - Rearrange spaces, delete and create spaces, move window to different space, move space to different displays
 - turn on and off?
 - also more easily install
-
 - Can maybe also get rid of rectangle/amethyst (ametyhst is more automatic it seems so could be more useful)
+- Yabai issue (focus/move/swap/create/destroy space) if don't disable thingy
 ## VSCODE
 A lot of shortcuts to do
