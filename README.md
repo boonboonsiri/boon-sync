@@ -90,6 +90,9 @@ j, k, enter (full screen)
 
 ### Notion maybe?
 
+### Yabai maybe?
+- Can allegely disable space animation: https://apple.stackexchange.com/questions/434555/can-you-completely-disable-desktop-switching-animation-on-macos/434565#434565
 
+- Can maybe also get rid of rectangle/amethyst (ametyhst is more automatic it seems so could be more useful)
 ## VSCODE
 A lot of shortcuts to do
