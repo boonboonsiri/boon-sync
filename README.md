@@ -13,7 +13,7 @@
 - Store passwords, keys, auths
 
 ## Chrome
-- Vimium
+- Vimium -> vim for chrome activate with f
 - Tab Renamer
 - Golinks
 - Bitwarden
@@ -27,13 +27,18 @@
 - Smh why don't you sync
 
 ### Fig
+- Upgrade terminal, sync aliases
 
-### Shortcat -> I think just use defualt
+### Shortcat -> I think just use default, global command pallete ie cmd + shift + space, can click on everything universally
 
-### Rectangle
-- Window management
+### Rectangle -> control + option
+- Window management, ie where on the screen something is, full screen, left screen, right screen, 
 
 ### Probably need a desktop window manager
+
+
+### Karabiner -> Shortcuts
+- main one is right command plus arrow keys, right option for mouse movements
 
 
 ### Amethyst for window managing?????
