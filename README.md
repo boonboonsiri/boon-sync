@@ -38,14 +38,19 @@ cmd + 1, cmd + 2
 Switch + shift
 
 
+### Tab section (VSCODE)
+
+
 ### Spaces
 cmd + option j,k
-
+ctrl + cmd? j,k
 
 
 ### Apps (in same window)
+cmd + option + l
 
 ### Screen
+cmd + option <,> maybe?
 
 
 ## Spotify
