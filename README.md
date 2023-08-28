@@ -93,6 +93,11 @@ j, k, enter (full screen)
 ### Yabai maybe?
 - Can allegely disable space animation: https://apple.stackexchange.com/questions/434555/can-you-completely-disable-desktop-switching-animation-on-macos/434565#434565
 
+- https://github.com/koekeishiya/yabai/wiki/Commands#display-commands
+- Rearrange spaces, delete and create spaces, move window to different space, move space to different displays
+- turn on and off?
+- also more easily install
+
 - Can maybe also get rid of rectangle/amethyst (ametyhst is more automatic it seems so could be more useful)
 ## VSCODE
 A lot of shortcuts to do
