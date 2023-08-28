@@ -16,8 +16,12 @@
 - Vimium -> vim for chrome activate with f
 - Tab Renamer
 - Golinks
-- Bitwarden
+- **Bitwarden**
 - SessionBuddy -> For managing session
+
+## Spotify
+## Whatsapp
+## Messenger
 
 ## Development
 
@@ -41,6 +45,6 @@
 - main one is right command plus arrow keys, right option for mouse movements
 
 
-### Amethyst for window managing?????
+### Amethyst for window managing????? -> might be useless, want it for focusing windows/more window management?
 
 ### Notion maybe?
