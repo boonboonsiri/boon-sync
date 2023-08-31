@@ -77,6 +77,31 @@ Fun little extra to resize: option + ctrl - r
 
 cmd + ctrl (for now) j, k (for future if get yabai working then maybe use uo)
 
+
+## App Opening Schematics
+
+Whatsapp 1
+
+Chrome 2
+
+VSCode 3
+
+Warp 4
+
+Spotify 5 
+
+alt = focus
+
+alt + shift = open
+
+### Layout Schematics
+
+Development
+
+Relaxation
+
+Development Screen (Figure out how to deal with multiple chromes and VSCodes later)
+
 ## Spotify
 
 ## Whatsapp
@@ -123,7 +148,6 @@ can also type name of app to open and close
 Turn on tililng: cmd + alt + s
 
 Turn off tiling: cmd + alt + a
-
 
 - Can allegely disable space animation: https://apple.stackexchange.com/questions/434555/can-you-completely-disable-desktop-switching-animation-on-macos/434565#434565
 - https://github.com/koekeishiya/yabai/wiki/Commands#display-commands
