@@ -145,6 +145,8 @@ can also type name of app to open and close
 
 ### Yabai maybe? (doesn't really work, seems to need bsp mode on for features to work correctly (annoying as heck))
 
+Some useful features actually (opening apps, focusing on apps, )
+
 Turn on tililng: cmd + alt + s
 
 Turn off tiling: cmd + alt + a

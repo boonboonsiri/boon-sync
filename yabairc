@@ -1,52 +1,18 @@
+# yabai --start-service
+# yabai --restart-service
+# yabai --stop-service
 
-# skhd --start-service
-# skhd --restart-service
-# skhd --stop-service
-
-# Changing Window Focus
-# ctrl + cmd - up : yabai -m window --swap north
-# ctrl + cmd - right : yabai -m window --swap east
-# ctrl + cmd - down : yabai -m window --swap south
-# ctrl + cmd - left : yabai -m window --swap west
-
-# ctrl + cmd - i : yabai -m window --focus north
-# ctrl + cmd - l : yabai -m window --focus east
-# ctrl + cmd - k : yabai -m window --focus south
-# ctrl + cmd - j : yabai -m window --focus west
-
-# ctrl + cmd - n : yabai -m window --focus prev
+# BSP, Stack or Float
+yabai -m config layout bsp
 
 
-ctrl + alt - q : yabai -m window --space 2
-ctrl + alt - r : yabai -m window --resize abs:1000:800
+yabai -m config window_placement second_child
 
-# App Specific rules
-alt + shift - 1 : open -n -a "Whatsapp"
-alt + shift - 2 : open -n -a "Google Chrome"
-alt + shift - 3 : open -n -a "Visual Studio Code"
-alt + shift - 4 : open -n -a "Warp"
-alt + shift - 5 : open -n -a "Spotify"
+# mouse placement
+yabai -m config mouse_follows_focus on
+yabai -m config mouse_modifier alt
+yabai -m config mouse_action1 move
+yabai -m config mouse_action2 resize
+# Swap
+yabai -m mouse_drop_action swap
 
-alt - 1 : open -a "Whatsapp"
-alt - 2 : open -a "Google Chrome"
-alt - 3 : open -a "Visual Studio Code"
-alt - 4 : open -a "Warp"
-alt - 5 : open -a "Spotify"
-
-alt - 2 : yabai -m rule --add app="Google Chrome$" space=^2
-#cmd + shift - e : yabai -m rule --add title="Google Chrome$" native-fullscreen=on
-
-
-
-
-ctrl + cmd - a  : yabai -m config layout float
-ctrl + cmd - s : yabai -m config layout bsp
-
-# cmd + alt - n : yabai -m space --create
-
-# cmd + alt - k: yabai -m space --focus next || yabai -m space --focus first
-
-# alt - 0x7D : yabai -m window --focus south
-# alt - 0x7B : yabai -m window --focus west
-# alt - 0x7E : yabai -m window --focus north
-# alt - 0x7C : yabai -m window --focus east

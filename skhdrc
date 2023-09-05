@@ -17,11 +17,25 @@
 # ctrl + cmd - n : yabai -m window --focus prev
 
 
+ctrl + alt - q : yabai -m window --space 2
+ctrl + alt - r : yabai -m window --resize abs:1000:800
 
+# App Specific rules
+alt + shift - 1 : open -n -a "Whatsapp"
+alt + shift - 2 : open -n -a "Google Chrome"
+alt + shift - 3 : open -n -a "Visual Studio Code"
+alt + shift - 4 : open -n -a "Warp"
+alt + shift - 5 : open -n -a "Spotify"
 
+alt - 1 : open -a "Whatsapp"
+alt - 2 : open -a "Google Chrome"
+alt - 3 : open -a "Visual Studio Code"
+alt - 4 : open -a "Warp"
+alt - 5 : open -a "Spotify"
 
+alt - 2 : yabai -m rule --add app="Google Chrome$" space=^2
+#cmd + shift - e : yabai -m rule --add title="Google Chrome$" native-fullscreen=on
 
-ctrl + cmd - r : yabai -m window --resize abs:1000:800
 
 
 
