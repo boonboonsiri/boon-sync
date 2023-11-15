@@ -45,7 +45,7 @@ Throw: cmd + shift. (ideally, need to alter this in VSCode)
 
 ### Tab section (VSCODE)
 
-Focus: alt + 1, alt + 2
+Focus: alt + <, alt >
 
 ### Spaces
 
@@ -77,7 +77,6 @@ Fun little extra to resize: option + ctrl - r
 
 cmd + ctrl (for now) j, k (for future if get yabai working then maybe use uo)
 
-
 ## App Opening Schematics
 
 Whatsapp 1
@@ -88,7 +87,7 @@ VSCode 3
 
 Warp 4
 
-Spotify 5 
+Spotify 5
 
 alt = focus
 
@@ -96,11 +95,18 @@ alt + shift = open
 
 ### Layout Schematics
 
-Development
-
 Relaxation
 
+- Spotify/Whatsapp, Chrome, Other Activity, Discord if calling Sophie,
+
+Development
+
+* Empty, MaybeExtraChrome, Notion, Obsidian, Spotify/WhatsApp, Slack, Other VSCode, VSCode/Terminal, Chrome, Docker/Pritunl
+
 Development Screen (Figure out how to deal with multiple chromes and VSCodes later)
+
+- Empty, MaybeExtraChrome, Notion, Obsidian, Slack, Spotify/WhatsApp, Empty
+- Other VSCode, VSCode/Terminal, Chrome, Docker/Pritunl
 
 ## Spotify
 
@@ -141,7 +147,7 @@ can also type name of app to open and close
 
 ### Amethyst for window managing????? -> might be useless, want it for focusing windows/more window management? -> ctrl + command (need to do this yourself boon, turn off setting for auto adjusting)
 
-### Notion maybe?
+### Obsidian Instead
 
 ### Yabai maybe? (doesn't really work, seems to need bsp mode on for features to work correctly (annoying as heck))
 
