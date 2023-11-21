@@ -3,7 +3,7 @@
 # yabai --stop-service
 
 # BSP, Stack or Float
-yabai -m config layout bsp
+yabai -m config layout float
 
 
 yabai -m config window_placement second_child
