@@ -107,9 +107,6 @@
                                     "modifiers": {
                                         "mandatory": [
                                             "right_option"
-                                        ],
-                                        "optional": [
-                                            "any"
                                         ]
                                     }
                                 },
@@ -124,14 +121,31 @@
                             },
                             {
                                 "from": {
+                                    "key_code": "i",
+                                    "modifiers": {
+                                        "mandatory": [
+                                            "right_option",
+                                            "shift"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "mouse_key": {
+                                            "y": -500
+                                        }
+                                    }
+                                ],
+                                "type": "basic"
+                            },
+                            {
+                                "from": {
                                     "key_code": "j",
                                     "modifiers": {
                                         "mandatory": [
                                             "right_option"
-                                        ],
-                                        "optional": [
-                                            "any"
                                         ]
+
                                     }
                                 },
                                 "to": [
@@ -145,13 +159,32 @@
                             },
                             {
                                 "from": {
+                                    "key_code": "j",
+                                    "modifiers": {
+                                        "mandatory": [
+                                            "right_option",
+                                            "shift"
+                                        ],
+                                        "optional": [
+                                            "any"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "mouse_key": {
+                                            "x": -500
+                                        }
+                                    }
+                                ],
+                                "type": "basic"
+                            },
+                            {
+                                "from": {
                                     "key_code": "k",
                                     "modifiers": {
                                         "mandatory": [
                                             "right_option"
-                                        ],
-                                        "optional": [
-                                            "any"
                                         ]
                                     }
                                 },
@@ -166,10 +199,11 @@
                             },
                             {
                                 "from": {
-                                    "key_code": "l",
+                                    "key_code": "k",
                                     "modifiers": {
                                         "mandatory": [
-                                            "right_option"
+                                            "right_option",
+                                            "shift"
                                         ],
                                         "optional": [
                                             "any"
@@ -179,7 +213,47 @@
                                 "to": [
                                     {
                                         "mouse_key": {
+                                            "y": 500
+                                        }
+                                    }
+                                ],
+                                "type": "basic"
+                            },
+                            {
+                                "from": {
+                                    "key_code": "l",
+                                    "modifiers": {
+                                        "mandatory": [
+                                            "right_option"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "mouse_key": {
                                             "x": 1200
+                                        }
+                                    }
+                                ],
+                                "type": "basic"
+                            },
+                            {
+                                "from": {
+                                    "key_code": "l",
+                                    "modifiers": {
+                                        "mandatory": [
+                                            "right_option",
+                                            "shift"
+                                        ],
+                                        "optional": [
+                                            "any"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "mouse_key": {
+                                            "x": 500
                                         }
                                     }
                                 ],
