@@ -6,7 +6,7 @@
 yabai -m config layout float
 
 
-yabai -m config window_placement second_child
+# yabai -m config window_placement second_child
 
 # mouse placement
 yabai -m config mouse_follows_focus on
