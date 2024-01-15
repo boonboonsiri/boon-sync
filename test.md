@@ -9,15 +9,3 @@ CS 300
 
 
 Blaaldsfja fa a;fds;dasj
-asd
-adf
-asdf
-asd
-asd
-asdf
-asdf
-asf
-sdaf
-sad
-fsad
-f
