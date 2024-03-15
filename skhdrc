@@ -17,8 +17,14 @@
 # ctrl + cmd - n : yabai -m window --focus prev
 
 
-ctrl + alt - q : yabai -m window --space 2
+# ctrl + alt - q : yabai -m window --space 2
 ctrl + alt - r : yabai -m window --resize abs:1000:800
+ctrl + alt - u : yabai -m window --resize right:100:0 # slightly larger than half
+ctrl + alt - o : yabai -m window --resize left:-100:0 # slightly make slightly wider
+ctrl + alt - 1 : yabai -m window --resize abs:500:1000 # whatapp
+ctrl + alt - q : yabai -m window --move rel:-320:0 # move whatsapp
+ctrl + alt - 2 : yabai -m window --resize abs:1180:1000 # resize secondary to whatsapp
+ctrl + alt - w : yabai -m window --move abs:335:0 # move secondary window
 
 # App Specific rules
 alt + shift - 1 : open -n -a "Whatsapp"
@@ -33,7 +39,8 @@ alt - 3 : open -a "Visual Studio Code"
 alt - 4 : open -a "Warp"
 alt - 5 : open -a "Spotify"
 
-alt - 2 : yabai -m rule --add app="Google Chrome$" space=^2
+alt - 6 : yabai -m rule --add app="Google Chrome$" space=^2
+alt - 7 : yabai -m rule --remove 0
 #cmd + shift - e : yabai -m rule --add title="Google Chrome$" native-fullscreen=on
 
 
