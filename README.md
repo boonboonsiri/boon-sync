@@ -23,6 +23,7 @@
 - Golinks
 - **Bitwarden** : cmd + shift + l
 - SessionBuddy -> For managing session
+- VideoSpeedController
 
 ## Text Selection Schematics
 
@@ -31,6 +32,21 @@
 Go Left right, throw left right, go to certain number
 
 Focus/Throw
+
+### Move Cursor
+Right Cmd i, j, k, l
+
+End of line start of line + left cmd
+Select + shift
+Select by Word + alt
+
+### Move Mouse
+Right option + i, j, k, l
+
+Click -> ;, right click '
+
++shift -> slow mode
+
 
 ### Macos ->
 
@@ -57,9 +73,10 @@ Throw to Screen: n/a
 
 ### Apps in same Space
 
-Cycle: cmd + ctrl + p
+Cycle: cmd + option + p ; cmd + option + o
 
-Select (left, right, up, down):  / need yabai (currently dead) ideally cmd + ctrl ijkl
+
+<!-- Select (left, right, up, down):  / need yabai (currently dead) ideally cmd + ctrl ijkl -->
 
 Search: cmd + shift + space
 
@@ -92,6 +109,12 @@ Spotify 5
 alt = focus
 
 alt + shift = open
+
+**Yabai Setup Whatsapp partial window**
+ctrl + alt - 1 : yabai -m window --resize abs:500:1000 # whatapp
+ctrl + alt - q : yabai -m window --move rel:-320:0 # move whatsapp
+ctrl + alt - 2 : yabai -m window --resize abs:1180:1000 # resize secondary to whatsapp
+ctrl + alt - w : yabai -m window --move abs:335:0 # move secondary window
 
 ### Layout Schematics
 
