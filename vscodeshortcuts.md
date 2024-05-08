@@ -69,9 +69,16 @@ cmd + \ -> open new tab window
 
 ## Tab Groups // do later
 
+## Find it faster
+cmd + shift + i -> search within files
+cmd + shift + j -> search files
+
+
 ### Change
 
 
 ## Terminal Shorcuts
 cmd + k -> clear
+cmd + k
 
+cmd + shift + [] -> switch termiansl
