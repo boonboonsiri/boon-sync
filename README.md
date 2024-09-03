@@ -41,7 +41,7 @@ Select + shift
 Select by Word + alt
 
 ### Move Mouse
-Right option + i, j, k, l
+Right option + i, j, k, l (karabiner)
 
 Click -> ;, right click '
 
@@ -55,7 +55,7 @@ Click -> ;, right click '
 
 ### Tabs
 
-Focus: cmd + 1, cmd + 2
+Focus: cmd + 1, cmd + 2 (Chrome, VSCode, Warp)
 
 Throw: cmd + shift. (ideally, need to alter this in VSCode)
 
@@ -65,7 +65,7 @@ Focus: alt + <, alt >
 
 ### Spaces
 
-Focus: cmd + option j,kApps (in same Space)
+Focus: cmd + option j,kApps (in same Space) (Macos)
 
 Throw (Alternate): n/a
 
@@ -80,23 +80,23 @@ Cycle: cmd + option + p ; cmd + option + o
 
 Search: cmd + shift + space
 
-Throw to Space: cmd + ctrl + <,>
+Throw to Space: cmd + ctrl + <,> (Amethyst) 
 
-Throw to Screen: cmd + ctrl  + []
+Throw to Screen: cmd + ctrl  + [] (Amethyst)
 
 Throw to Side/flip /mirror: (need to be in mode) cmd + ctrl + ;
 
 Automatically Rearrange: option + shift + space
 
-Fun little extra to resize: option + ctrl - r
+Fun little extra to resize: option + ctrl - r (skhd)
 
 ### Screen
 
-cmd + ctrl (for now) j, k (for future if get yabai working then maybe use uo)
+cmd + ctrl (for now) j, k (for future if get yabai working then maybe use uo) (skhd)
 
 ## App Opening Schematics
 
-Whatsapp 1
+Whatsapp 1 (skhd)
 
 Chrome 2
 
